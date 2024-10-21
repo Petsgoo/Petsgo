@@ -1,10 +1,11 @@
-# Petsgo
+# Petsgo Updated Working
 Petsgo rng roblox script for roblox
 To use script you will need an injector
 like arceus-X or delta you can search google search engine
 
-Copy script and paste into injector
-loadstring(game:HttpGet('https://darkscripts.space/scripts/b8c889b1dd.lua', true))()
+Copy lua script and paste into injector
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/refs/heads/main/61dc99699027f66ae0ed7ff9.lua'))()
 
 features will be updated every week
 auto converts potions select potions to convert
@@ -14,6 +15,7 @@ auto quests auto level xp auto collect all coins all items ingame untill complet
 Added dupe huges upto 1,555,555,555 maximum and more.
 
 Petsimulator 99 Script for Roblox
+
 loadstring(game:HttpGet('https://darkscripts.space/scripts/e0b385e568.lua', true))()
 
 Tonns of features like auto claim mail
